@@ -1,0 +1,89 @@
+*{
+  background-color: whitesmoke;
+}
+.card{
+  background-color: white;
+  border-radius: 8px;
+  justify-content: center;
+  align-items: center;
+  /* box-shadow: 0 2px 4px wheat; */
+  padding: 20px;
+  /* margin: 20px; */
+  width: 500px;
+  height: 500px;
+  margin: auto; 
+  
+
+}
+input{
+  text-align: center;
+  height: 30px;
+  top:10px;
+  border: none;
+  background: transparent;
+  font-size: 20px;
+  width: 60%;
+  font-weight: 500;
+  border-bottom: 2px solid black;
+  outline: none;
+  font-family:fantasy;
+  /* background-color; */
+}
+.card h1{
+ background-color: black;
+ border-radius: 8px;
+ text-align: center;
+ width: 100%;
+ color: antiquewhite;
+}
+
+
+
+.card-button{
+  /* min-height: 10px; */
+  border-radius: 50%;
+  background-color: black;
+  color:antiquewhite;
+  /* width: 40px; */
+  /* font-size: 40px; */
+  border: none;
+  margin-left: 10px;
+  /* box-shadow: 5px 5px 15px -5px rgba(0,0,0,0.3); */
+  text-align: center;
+  
+
+  
+}
+button:hover{
+  background-color: green;
+}
+ol{
+  margin-top: 30px;
+}
+li{
+  font-size: 20px;
+  font-family:cursive;
+  background-color: white;
+  
+}
+.img{
+  height: 20px;
+  width: 20px;
+}
+.list-button{
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+  text-align: center;
+/* color:antiquewhite; */
+  /* width: 40px; */
+  /* font-size: 40px; */
+  border: none;
+  /* margin-left: 10px; */
+  /* box-shadow: 5px 5px 15px -5px rgba(0,0,0,0.3); */
+ 
+  /* background-color: red; */
+  color: white;
+  /* padding-bottom: 5px; */
+  
+}
